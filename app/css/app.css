@@ -1,0 +1,67 @@
+.nav li{
+ 
+}
+
+.nav a{
+  color: grey;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 10px 10px;
+  text-transform: uppercase;
+}
+
+
+.nav-tabs{
+  background-color:white;
+}
+
+.tab-content{
+    background-color:#303136;
+    color:#fff;
+    padding:5px
+}
+.nav-tabs > li > a{
+  border: medium none;
+}
+.nav-tabs > li > a:hover{
+    background-color: grey !important;
+    border: medium none;
+    color:#fff;
+}
+
+.login-center{
+  margin-top: 10%;
+  margin-left: 40%;
+  background: #dfdfdf;
+}
+
+.login-width-heigth{
+     width: 60%;
+     height: 30%;
+}
+
+#logintextboxborder{
+  border-radius: 10px;
+  outline : 0;
+  padding-right: 15px;
+  padding-left: 15px;
+  position: relative;
+  min-height: 1px;
+}
+
+
+
+.loginForm {
+  border : 1px solid black;
+  background: #dfdfdf;
+  width: 30%;
+  border-radius: 10px;
+  
+}
+
+
+
+
+
+
+

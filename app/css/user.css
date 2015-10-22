@@ -1,0 +1,35 @@
+input.col-sm-3{
+  border-radius: 10px;
+}
+
+input:focus{
+  outline : 0;
+}
+
+input.ng-untouched{
+   border : 1px solid #99e9ff;
+}
+
+input.ng-dirty, input.ng-touched{
+  border : 1px solid red;
+}
+
+input.ng-valid{
+  border : 1px solid #8ec127;
+}
+
+span.col-sm-3{
+  color : red;
+}
+
+.col-sm-3.confirmPwdInvalid{
+ border : 1px solid red; 
+}
+
+.btn-ssuccess{
+	border-radius: 5px;
+}
+
+.userrow{
+	.make-row();
+}
